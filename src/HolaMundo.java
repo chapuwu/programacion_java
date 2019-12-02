@@ -13,7 +13,7 @@ public class HolaMundo {
         System.out.println(saludar);
         System.out.println(saludar);
 
-        var despedirse = "Nos Vimo Perro";
+        var despedirse = "Nos Vimo Perrito";
         System.out.println(despedirse);
 
         var numero = "5";
